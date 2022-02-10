@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kaustav Chakraborty</h1>
 <h3 align="center">A Software Enthusiastic, Speaker & Mentor from India</h3>
+<p align="center">I am working as Engineering Manager in Medly with 7+ years of experience in building Web applications(using ReactJS, Redux, Typescript & Javascript), Health Care Systems (using Java, Kotlin, NodeJS, Postgres, Micronaut, Sprintboot) and Automation testing suite (using Cypress, TestCafé and Selenium).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixtw&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixtw" /> </p>
+Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
-<p align="left"> <a href="https://twitter.com/iamckaustav" target="blank"><img src="https://img.shields.io/twitter/follow/iamckaustav?logo=twitter&style=for-the-badge" alt="iamckaustav" /></a> </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixTW&count_private=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmukul01&layout=compact" />
+</a>
 
 - 👨‍💻 All of my projects are available at [https://iamkaustav.com/projects](https://iamkaustav.com/projects)
 
@@ -29,3 +36,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixtw&show_icons=true&locale=en&layout=compact" alt="phoenixtw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixtw&" alt="phoenixtw" /></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=phoenixTW&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />

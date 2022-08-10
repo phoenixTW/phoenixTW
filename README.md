@@ -24,10 +24,10 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 ### Contact
 
 ![Profile Views](https://komarev.com/ghpvc/?username=phoenixTW&color=brightgreen&style=for-the-badge)
-![Linkedin Badge](https://img.shields.io/badge/-iamkaustav-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamkaustav/)
-![Outlook Badge](https://img.shields.io/badge/-kaustavch-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaustavch@outlook.com)
-![Website Badge](https://img.shields.io/badge/-iamkaustav.com-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://iamkaustav.com)
-![Twitter Badge](https://img.shields.io/badge/-@iamckaustav-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamckaustav)
+[![Linkedin Badge](https://img.shields.io/badge/-iamkaustav-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamkaustav/)](https://www.linkedin.com/in/iamkaustav/)
+[![Outlook Badge](https://img.shields.io/badge/-kaustavch-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaustavch@outlook.com)](mailto:kaustavch@outlook.com)
+[![Website Badge](https://img.shields.io/badge/-iamkaustav.com-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://iamkaustav.com)](https://iamkaustav.com)
+[![Twitter Badge](https://img.shields.io/badge/-@iamckaustav-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamckaustav)](https://twitter.com/iamckaustav)
 
 ### Profile Stats
 

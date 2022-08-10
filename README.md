@@ -4,9 +4,6 @@
 
 Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
-![Kaustav's github stats](https://github-readme-stats.vercel.app/api?username=phoenixTW&count_private=true&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixTW&layout=compact&theme=dark)](https://github.com/phoenixTW/github-readme-stats)
 
 - 👨‍💻 All of my projects are available at [https://iamkaustav.com/projects](https://iamkaustav.com/projects)
 
@@ -31,7 +28,6 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 ### Profile Stats
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixtw&show_icons=true&locale=en&layout=compact" alt="phoenixtw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixtw&" alt="phoenixtw" /></p>
+![phoenixTW's Stats](https://github-readme-stats.vercel.app/api?username=phoenixTW&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![phoenixTW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=phoenixTW&theme=vue-dark&hide_border=true)
+![phoenixTW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixTW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

@@ -42,7 +42,7 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 #### Recent Activity
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.7%20million%20lines%20of%20code-blue)
 
@@ -50,7 +50,7 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 > 📦 142.1 kB Used in GitHub's Storage 
  > 
-> 🏆 535 Contributions in the Year 2023
+> 🏆 536 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,6 +70,10 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 05/12/2023 17:46:06 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/phoenixTW/phoenixTW/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/12/2023 18:37:07 UTC
 <!--END_SECTION:waka-->

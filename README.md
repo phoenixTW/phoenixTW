@@ -42,4 +42,34 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 #### Recent Activity
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 142.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 535 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 74 Public Repositories 
+ > 
+> 🔑 31 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Go                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+```
+
+
+
+
+ Last Updated on 05/12/2023 17:46:06 UTC
 <!--END_SECTION:waka-->

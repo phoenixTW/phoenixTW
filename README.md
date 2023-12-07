@@ -42,6 +42,8 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 #### Recent Activity
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.7%20million%20lines%20of%20code-blue)
@@ -50,7 +52,7 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 > 📦 142.2 kB Used in GitHub's Storage 
  > 
-> 🏆 539 Contributions in the Year 2023
+> 🏆 540 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,6 +60,45 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
  > 
 > 🔑 31 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+🌆 Daytime                533 commits         ████████░░░░░░░░░░░░░░░░░   31.22 % 
+🌃 Evening                595 commits         █████████░░░░░░░░░░░░░░░░   34.86 % 
+🌙 Night                  379 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Tuesday                  279 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Wednesday                230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Thursday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Friday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Saturday                 258 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Sunday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -75,5 +116,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phoenixTW/phoenixTW/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2023 18:37:12 UTC
+ Last Updated on 07/12/2023 18:37:24 UTC
 <!--END_SECTION:waka-->

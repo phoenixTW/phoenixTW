@@ -52,8 +52,6 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 > 📦 142.2 kB Used in GitHub's Storage 
  > 
-> 🏆 586 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 74 Public Repositories 
@@ -116,5 +114,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/phoenixTW/phoenixTW/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2023 18:36:24 UTC
+ Last Updated on 23/12/2023 18:36:22 UTC
 <!--END_SECTION:waka-->

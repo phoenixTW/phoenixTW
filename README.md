@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustav Chakraborty</h1>
-<h3 align="center">A Software Enthusiastic, Speaker & Mentor from India</h3>
-<p align="center"><b>Software Development Manager</b> with 9 years of successful experience in developing Web applications ( using React, Redux, Typescript & Javascript ), Infrastructure & Security ( using AWS, Terraform, Serverless ), Backend applications ( using Kotlin, Java & NodeJS ) and Automation testing suite ( using Cypress & Selenium ).
+<h3 align="center">A Software Enthusiastic, Speaker & Mentor</h3>
+<p align="center"><b>Software Development Manager</b> with 9+ years of successful experience in developing Web applications ( using React, Redux, Typescript & Javascript ), Infrastructure & Security ( using AWS, Terraform, Serverless ), Backend applications ( using Kotlin, Java & NodeJS ) and Automation testing suite ( using Cypress & Selenium ).
 
 Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 

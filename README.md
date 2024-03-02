@@ -11,6 +11,8 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Crucial Role of DevOps Security in the Success of Early-Stage Startups](https://iamkaustav.medium.com/the-crucial-role-of-devops-security-in-the-success-of-early-stage-startups-85ff6d8c3489?source=rss-c3d77d3c9234------2)
+- [The Crucial Role of DevOps Security in the Success of Early-Stage Startups](https://notes.iamkaustav.com/the-crucial-role-of-devops-security-in-the-success-of-early-stage-startups)
 - [An experience with Golang as a Backend Engineer](https://notes.iamkaustav.com/an-experience-with-golang-as-a-backend-engineer)
 - [Deep Drive to Production Readiness Checklist](https://notes.iamkaustav.com/deep-drive-to-production-readiness-checklist)
 - [Common Mistakes of Performance Metrics — With Lines Of Code](https://iamkaustav.medium.com/common-mistakes-of-performance-metrics-with-lines-of-code-d2a80b8d270e?source=rss-c3d77d3c9234------2)

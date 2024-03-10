@@ -19,6 +19,7 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 - [Monitor custom IAM users in AWS organization](https://iamkaustav.medium.com/monitor-custom-iam-users-in-aws-organization-525fc04b07a7?source=rss-c3d77d3c9234------2)
 - [Build Your First Single Page React App Using regauge](https://iamkaustav.medium.com/build-your-first-single-page-react-app-using-regauge-d3271d8f532d?source=rss-c3d77d3c9234------2)
 - [Chapter 1: A monsoon morning at Alandi Ghat](https://iamkaustav.medium.com/chapter-1-a-monsoon-morning-at-alandi-ghat-bc659382df36?source=rss-c3d77d3c9234------2)
+- [Bits and Pieces around Pune](https://medium.com/series/bits-and-pieces-around-pune-a50ea3ca8500?source=rss-c3d77d3c9234------2)
 - [User Story Estimation Technique — One of the recommended ways](https://iamkaustav.medium.com/user-story-estimation-technique-one-of-the-recommended-ways-f99e626771b0?source=rss-c3d77d3c9234------2)
 <!-- BLOG-POST-LIST:END -->
 

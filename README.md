@@ -11,16 +11,13 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Aliasing your existing git branch](https://notes.iamkaustav.com/aliasing-your-existing-git-branch)
-- [How to Monitor Custom IAM Users in Your AWS Organization](https://notes.iamkaustav.com/how-to-monitor-custom-iam-users-in-your-aws-organization)
-- [Parallel Function Execution in Go Using Concurrency](https://notes.iamkaustav.com/parallel-function-execution-in-go-using-concurrency)
 - [The Crucial Role of DevOps Security in the Success of Early-Stage Startups](https://iamkaustav.medium.com/the-crucial-role-of-devops-security-in-the-success-of-early-stage-startups-85ff6d8c3489?source=rss-c3d77d3c9234------2)
-- [The Crucial Role of DevOps Security in the Success of Early-Stage Startups](https://notes.iamkaustav.com/the-crucial-role-of-devops-security-in-the-success-of-early-stage-startups)
-- [An experience with Golang as a Backend Engineer](https://notes.iamkaustav.com/an-experience-with-golang-as-a-backend-engineer)
-- [Deep Drive to Production Readiness Checklist](https://notes.iamkaustav.com/deep-drive-to-production-readiness-checklist)
 - [Common Mistakes of Performance Metrics — With Lines Of Code](https://iamkaustav.medium.com/common-mistakes-of-performance-metrics-with-lines-of-code-d2a80b8d270e?source=rss-c3d77d3c9234------2)
 - [Monitor custom IAM users in AWS organization](https://iamkaustav.medium.com/monitor-custom-iam-users-in-aws-organization-525fc04b07a7?source=rss-c3d77d3c9234------2)
 - [Build Your First Single Page React App Using regauge](https://iamkaustav.medium.com/build-your-first-single-page-react-app-using-regauge-d3271d8f532d?source=rss-c3d77d3c9234------2)
+- [Chapter 1: A monsoon morning at Alandi Ghat](https://iamkaustav.medium.com/chapter-1-a-monsoon-morning-at-alandi-ghat-bc659382df36?source=rss-c3d77d3c9234------2)
+- [Bits and Pieces around Pune](https://medium.com/series/bits-and-pieces-around-pune-a50ea3ca8500?source=rss-c3d77d3c9234------2)
+- [User Story Estimation Technique — One of the recommended ways](https://iamkaustav.medium.com/user-story-estimation-technique-one-of-the-recommended-ways-f99e626771b0?source=rss-c3d77d3c9234------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br /><br />

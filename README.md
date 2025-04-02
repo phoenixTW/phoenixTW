@@ -33,12 +33,12 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 ### Profile Stats
 [![Kaustav's GitHub stats](https://github-readme-stats-five-livid-95.vercel.app/api?username=phoenixTW&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=reviews,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/phoenixTW/github-readme-stats)
-![phoenixTW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=phoenixTW&theme=vue-dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=phoenixTW&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-five-livid-95.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 ### Activities
 
-[![activity graph](https://github-readme-stats-five-livid-95.vercel.app/graph?username=phoenixTW&theme=github-dark-dimmed&custom_title=Kaustav%20Chakraborty's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kaustav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phoenixTW&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true&days=60&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Recent Activity
 <!--START_SECTION:waka-->

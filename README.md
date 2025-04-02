@@ -110,13 +110,4 @@ Go                       8 repos             ██░░░░░░░░░�
 HCL                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Kotlin                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/phoenixTW/phoenixTW/main/assets/bar_graph.png)
-
-
- Last Updated on 01/01/2024 18:36:22 UTC
 <!--END_SECTION:waka-->

@@ -32,13 +32,13 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 ## Stats
 
 ### Profile Stats
-![phoenixTW's Stats](https://github-readme-stats.vercel.app/api?username=phoenixTW&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Kaustav's GitHub stats](https://github-readme-stats-five-livid-95.vercel.app/api?username=phoenixTW&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=reviews,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/phoenixTW/github-readme-stats)
 ![phoenixTW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=phoenixTW&theme=vue-dark&hide_border=true)
-![phoenixTW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixTW&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats-five-livid-95.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 ### Activities
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phoenixTW&theme=github-dark-dimmed&custom_title=Kaustav%20Chakraborty's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-stats-five-livid-95.vercel.app/graph?username=phoenixTW&theme=github-dark-dimmed&custom_title=Kaustav%20Chakraborty's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Recent Activity
 <!--START_SECTION:waka-->
@@ -47,6 +47,8 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.7%20million%20lines%20of%20code-blue)
+
+[![PhoenixTW's WakaTime stats](https://github-readme-stats-five-livid-95.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 **🐱 My GitHub Data** 
 

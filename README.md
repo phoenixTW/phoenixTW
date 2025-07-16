@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustav Chakraborty</h1>
 <h3 align="center">A Software Enthusiastic, Speaker & Mentor</h3>
-<p align="center"><b>Software Development Manager</b> with 9+ years of successful experience in developing Web applications ( using React, Redux, Typescript & Javascript ), Infrastructure & Security ( using AWS, Terraform, Serverless ), Backend applications ( using Kotlin, Java & NodeJS ) and Automation testing suite ( using Cypress & Selenium ).
+<p align="center"><b>Software Development Manager</b> with 11+ years of successful experience in developing Web applications ( using React, Redux, NextJS, Typescript & Javascript ), Infrastructure & Security ( using AWS, Terraform, Serverless ), Backend applications ( using Golang, Kotlin, Java & NodeJS ) and Automation testing suite ( using Cypress & Selenium ).
 
 Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
@@ -34,7 +34,7 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 ### Profile Stats
 [![Kaustav's GitHub stats](https://github-readme-stats-five-livid-95.vercel.app/api?username=phoenixTW&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=reviews,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/phoenixTW/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=phoenixTW&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-five-livid-95.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&langs_count=8)
+![Top Langs](https://github-readme-stats-five-livid-95.vercel.app/api/top-langs/?username=phoenixTW&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 ### Activities
 

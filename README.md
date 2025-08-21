@@ -11,6 +11,7 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pair Programming —Beneficial or Not?](https://iamkaustav.medium.com/pair-programming-beneficial-or-not-e6025d058616?source=rss-c3d77d3c9234------2)
 - [The Crucial Role of DevOps Security in the Success of Early-Stage Startups](https://iamkaustav.medium.com/the-crucial-role-of-devops-security-in-the-success-of-early-stage-startups-85ff6d8c3489?source=rss-c3d77d3c9234------2)
 - [Common Mistakes of Performance Metrics — With Lines Of Code](https://iamkaustav.medium.com/common-mistakes-of-performance-metrics-with-lines-of-code-d2a80b8d270e?source=rss-c3d77d3c9234------2)
 - [Monitor custom IAM users in AWS organization](https://iamkaustav.medium.com/monitor-custom-iam-users-in-aws-organization-525fc04b07a7?source=rss-c3d77d3c9234------2)

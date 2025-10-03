@@ -11,6 +11,7 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS SSO Without the Headaches: A Practical Guide for Terraform and the AWS CLI](https://iamkaustav.medium.com/aws-sso-without-the-headaches-a-practical-guide-for-terraform-and-the-aws-cli-f6aa0339c3d8?source=rss-c3d77d3c9234------2)
 - [Fixing GPG Commit Signing Errors on macOS &lpar;Inappropriate ioctl for device&rpar;](https://iamkaustav.medium.com/fixing-gpg-commit-signing-errors-on-macos-inappropriate-ioctl-for-device-e35346d67c4e?source=rss-c3d77d3c9234------2)
 - [How We Scaled AWS Observability with Terraform/CDKTF &lpar;and Cut MTTR &lt;20m&rpar;](https://iamkaustav.medium.com/how-we-scaled-aws-observability-with-terraform-cdktf-and-cut-mttr-20m-4b05fa053d71?source=rss-c3d77d3c9234------2)
 - [Pair Programming —Beneficial or Not?](https://iamkaustav.medium.com/pair-programming-beneficial-or-not-e6025d058616?source=rss-c3d77d3c9234------2)
@@ -20,7 +21,6 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 - [Build Your First Single Page React App Using regauge](https://iamkaustav.medium.com/build-your-first-single-page-react-app-using-regauge-d3271d8f532d?source=rss-c3d77d3c9234------2)
 - [Chapter 1: A monsoon morning at Alandi Ghat](https://iamkaustav.medium.com/chapter-1-a-monsoon-morning-at-alandi-ghat-bc659382df36?source=rss-c3d77d3c9234------2)
 - [Bits and Pieces around Pune](https://medium.com/series/bits-and-pieces-around-pune-a50ea3ca8500?source=rss-c3d77d3c9234------2)
-- [User Story Estimation Technique — One of the recommended ways](https://iamkaustav.medium.com/user-story-estimation-technique-one-of-the-recommended-ways-f99e626771b0?source=rss-c3d77d3c9234------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br /><br />

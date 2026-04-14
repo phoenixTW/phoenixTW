@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kaustav Chakraborty</h1>
 <h3 align="center">A Software Enthusiastic, Speaker & Mentor</h3>
-<p align="center"><b>Software Development Manager</b> with 11+ years of successful experience in developing Web applications ( using React, Redux, NextJS, Typescript & Javascript ), Infrastructure & Security ( using AWS, Terraform, Serverless ), Backend applications ( using Golang, Kotlin, Java & NodeJS ) and Automation testing suite ( using Cypress & Selenium ).
+<p align="center"><b>Software Architect</b> with ~12 years of experience in developing multi tenant SaaS & consumer products, strengthening infrastructure & security.
 
-Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
+Currently leading a team of great engineers with companies engaging in high scaled, fintech focused projects 🚀.
+</p>
 
+- Read more about [me](https://iamkaustav.com/)
+- Follow [my blogs](https://notes.iamkaustav.com/)
 
-- 👨‍💻 All of my projects are available at [https://iamkaustav.com/projects](https://iamkaustav.com/projects)
+- 💬 Ask me about **golang, kotlin, Terraform, security, AWS**
 
-- 💬 Ask me about **golang, kotlin, Terraform, AWS**
+<br />
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/iamkaustav)
+
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -35,9 +41,7 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 ## Stats
 
 ### Profile Stats
-[![Kaustav's GitHub stats](https://github-readme-stats-five-livid-95.vercel.app/api?username=phoenixTW&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=reviews,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/phoenixTW/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=phoenixTW&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-five-livid-95.vercel.app/api/top-langs/?username=phoenixTW&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 ### Activities
 
@@ -45,12 +49,5 @@ Visit <a href="https://iamkaustav.com/">iamkaustav.com</a> to know more.
 
 #### Recent Activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.7%20million%20lines%20of%20code-blue)
-
-[![PhoenixTW's WakaTime stats](https://github-readme-stats-five-livid-95.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--END_SECTION:waka-->

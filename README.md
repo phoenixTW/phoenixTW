@@ -17,16 +17,16 @@ Currently leading a team of great engineers with companies engaging in high scal
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Apply Crashed in CI? Here&#39;s How to Recover Your S3 State](https://notes.iamkaustav.com/terraform-apply-crashed-in-ci-here-s-how-to-recover-your-s3-state)
 - [Terraform Apply Crashed in CI? Here’s How to Recover Your S3 State](https://iamkaustav.medium.com/terraform-apply-crashed-in-ci-heres-how-to-recover-your-s3-state-ad5f2f6adfa5?source=rss-c3d77d3c9234------2)
 - [AWS SSO Without the Headaches: A Practical Guide for Terraform and the AWS CLI](https://iamkaustav.medium.com/aws-sso-without-the-headaches-a-practical-guide-for-terraform-and-the-aws-cli-f6aa0339c3d8?source=rss-c3d77d3c9234------2)
 - [Fixing GPG Commit Signing Errors on macOS &lpar;Inappropriate ioctl for device&rpar;](https://iamkaustav.medium.com/fixing-gpg-commit-signing-errors-on-macos-inappropriate-ioctl-for-device-e35346d67c4e?source=rss-c3d77d3c9234------2)
 - [How We Scaled AWS Observability with Terraform/CDKTF &lpar;and Cut MTTR &lt;20m&rpar;](https://iamkaustav.medium.com/how-we-scaled-aws-observability-with-terraform-cdktf-and-cut-mttr-20m-4b05fa053d71?source=rss-c3d77d3c9234------2)
 - [Pair Programming —Beneficial or Not?](https://iamkaustav.medium.com/pair-programming-beneficial-or-not-e6025d058616?source=rss-c3d77d3c9234------2)
+- [Aliasing your existing git branch](https://notes.iamkaustav.com/aliasing-your-existing-git-branch)
+- [How to Monitor Custom IAM Users in Your AWS Organization](https://notes.iamkaustav.com/how-to-monitor-custom-iam-users-in-your-aws-organization)
+- [Parallel Function Execution in Go Using Concurrency](https://notes.iamkaustav.com/parallel-function-execution-in-go-using-concurrency)
 - [The Crucial Role of DevOps Security in the Success of Early-Stage Startups](https://iamkaustav.medium.com/the-crucial-role-of-devops-security-in-the-success-of-early-stage-startups-85ff6d8c3489?source=rss-c3d77d3c9234------2)
-- [Common Mistakes of Performance Metrics — With Lines Of Code](https://iamkaustav.medium.com/common-mistakes-of-performance-metrics-with-lines-of-code-d2a80b8d270e?source=rss-c3d77d3c9234------2)
-- [Monitor custom IAM users in AWS organization](https://iamkaustav.medium.com/monitor-custom-iam-users-in-aws-organization-525fc04b07a7?source=rss-c3d77d3c9234------2)
-- [Build Your First Single Page React App Using regauge](https://iamkaustav.medium.com/build-your-first-single-page-react-app-using-regauge-d3271d8f532d?source=rss-c3d77d3c9234------2)
-- [Chapter 1: A monsoon morning at Alandi Ghat](https://iamkaustav.medium.com/chapter-1-a-monsoon-morning-at-alandi-ghat-bc659382df36?source=rss-c3d77d3c9234------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br /><br />
